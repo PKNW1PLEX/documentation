@@ -1,23 +1,25 @@
 
 # PKNW1-PLEX
+```
+Encrypted Plex Stack - DEPLOYMENT TEST
+```
+
+
 ### data
 >
-> - Plex \
-tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text 
+> - Plex 
 > - Scripts 
 
 
 ### config
 >
-> - nginx \
-tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text 
+> - nginx 
 > - plex 
 
 
 ### docker-stack
 >
-> - utorrent \
-tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text 
+> - utorrent 
 > - sickrage 
 > - couchpotato 
 > - htpc 
@@ -25,7 +27,6 @@ tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tez
 
 ### docker-www
 >
-> - torwww \
-tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text 
+> - torwww 
 > - www-ca 
 > - www-www 
