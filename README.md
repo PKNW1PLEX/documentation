@@ -2,28 +2,30 @@
 # PKNW1-PLEX
 ### data
 >
->- [x] Plex
->- [ ] Scripts
+> - Plex \
+tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text 
+> - Scripts 
 
 
+### config
+>
+> - nginx \
+tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text 
+> - plex 
 
 
->plex | scripts
-[x] done
-config			[		nginx | plex													]
-docker-stack	[		utorrent | sickrage | couchpotato | htpcmanager | owncloud		]
-docker-www-ca	[		torwww | www-ca | www-www										]
+### docker-stack
+>
+> - utorrent \
+tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text 
+> - sickrage 
+> - couchpotato 
+> - htpc 
+> - owncloud
 
-
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+### docker-www
+>
+> - torwww \
+tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text tezxt text 
+> - www-ca 
+> - www-www 
